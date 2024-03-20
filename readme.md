@@ -14,7 +14,7 @@
 
 <h2>Skills</h2>
 <p>
-<a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe-FF0000.svg?logo=adobe&logoColor=white"></a>
+<a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe-FF0000.svg?style=for-the-badgelogo=adobe&logoColor=white"></a>
 <a href="#"><img alt="Adobe After Effects" src="https://img.shields.io/badge/Adobee%20After%20Effects-9999FF.svg?logo=adobe-after-effects&logoColor=white"></a>
 <a href="#"><img alt="Adobe InDesign" src="https://img.shields.io/badge/Adobe%20InDesign-FF3366.svg?logo=adobe-indesign&logoColor=white"></a>
 <a href="#"><img alt="Adobe Photoshop" src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF.svg?logo=adobe-photoshop&logoColor=white"></a>
