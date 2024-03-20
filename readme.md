@@ -2,7 +2,7 @@
 
 <p align="center">  
   <a href="https://elijahchan.ca/">
-    <img alt="Link to Portfolio" title="Check out my Portfolio" target="_blank" src="https://img.shields.io/badge/Elijah's-Portfolio-blue">
+    <img alt="Link to Portfolio" title="Check out my Portfolio" target="_blank" src="https://img.shields.io/badge/Elijah's-Portfolio-CABDB9">
   </a>
 
   
