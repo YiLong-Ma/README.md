@@ -7,7 +7,7 @@
     <a href="https://www.linkedin.com/in/elijahrc-chan/">
     <img alt="Link to Portfolio" title="Check out my Portfolio" target="_blank" src="https://img.shields.io/badge/Elijah's-Linkedin-blue">
   </a>
-<p>Hello there, my name is Elijah and I'm a Front-End developer and Digital/Graphics Designer</p>
+<p align="center">Hello there, my name is Elijah and I'm a Front-End developer and Digital/Graphics Designer</p>
   
   <br><br>
 </p>
